@@ -1,5 +1,5 @@
 ### Python Virtual Environment in `Debian 11`
-
+***
 #### Context  
 
 The latest `Debian 11` release, `Bullseye` is shipped with `python3` by default.   
